@@ -74,6 +74,22 @@ Slack
 [The Ruby on Rails Podcast, en](https://open.spotify.com/show/2Iibd5A6R7mxkCm4NwNmUn?si=03f5322058584c49&nd=1)
 
 ## Rss news aggregators
+
+[Dev Community Rails, en](https://dev.to/feed/tag/rails)
+
+[Dev Community Ruby, en](https://dev.to/feed/tag/ruby)
+
+[Rubyland, en](https://rubyland.news/feed.rss)
+
+[Ruby on Rails - Google Alert, en](https://www.google.com/alerts/feeds/01156746738178996196/5471064447652205656)
+
+[Awesome Ruby Newsletter, en](https://ruby.libhunt.com/newsletter/feed)
+
+[Railsware, en](https://railsware.com/blog/feed/)
+
+
+
+
 ## Sites with programming challenges
 
 [Codewars, en](https://www.codewars.com/dashboard)
@@ -95,4 +111,21 @@ Slack
 ## Youtube channels
 ## Youtube playlists
 ## Blogs
+
+[Ana Nunes da Silva, en](https://www.ananunesdasilva.com/)
+
+[Avdi Grimm](https://avdi.codes/)
+
+[Code with Jason](https://www.codewithjason.com/)
+
+[Yaroslav Shmarov](https://blog.corsego.com/)
+
+[DriftingRuby](https://www.driftingruby.com/)
+
+[Giant Robots Smashing Into Other Giant Robots](https://thoughtbot.com/blog)
+
+[Gorails Screenshots](https://gorails.com/episodes)
+
+[Matheus Richard](https://www.matheusrich.com/)
+
 
