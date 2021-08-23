@@ -114,18 +114,18 @@ Slack
 
 [Ana Nunes da Silva, en](https://www.ananunesdasilva.com/)
 
-[Avdi Grimm](https://avdi.codes/)
+[Avdi Grimm, en](https://avdi.codes/)
 
-[Code with Jason](https://www.codewithjason.com/)
+[Code with Jason, en](https://www.codewithjason.com/)
 
-[Yaroslav Shmarov](https://blog.corsego.com/)
+[Yaroslav Shmarov, en](https://blog.corsego.com/)
 
-[DriftingRuby](https://www.driftingruby.com/)
+[DriftingRuby, en](https://www.driftingruby.com/)
 
-[Giant Robots Smashing Into Other Giant Robots](https://thoughtbot.com/blog)
+[Giant Robots Smashing Into Other Giant Robots, en](https://thoughtbot.com/blog)
 
-[Gorails Screenshots](https://gorails.com/episodes)
+[Gorails Screenshots, en](https://gorails.com/episodes)
 
-[Matheus Richard](https://www.matheusrich.com/)
+[Matheus Richard, en](https://www.matheusrich.com/)
 
 
