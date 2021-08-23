@@ -94,3 +94,5 @@ Slack
 
 ## Youtube channels
 ## Youtube playlists
+## Blogs
+
