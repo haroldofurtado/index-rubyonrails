@@ -1,5 +1,6 @@
-# index About Ruby on Rails
-"It's dangerous to go alone! Take this." Ruby on Rails Content Guide.
+# Index - Ruby on Rails
+
+![Ruby](images/ruby.jpg)
 
 ## Android Apps
 [Anki - flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki)
