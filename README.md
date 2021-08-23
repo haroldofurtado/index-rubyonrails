@@ -87,7 +87,10 @@ Slack
 
 [Railsware, en](https://railsware.com/blog/feed/)
 
+[Questions StackOverflow - ruby, pt-BR](https://pt.stackoverflow.com/feeds/tag/ruby)
 
+
+[Questions StackOverflow - rails, pt-BR](https://pt.stackoverflow.com/feeds/tag/ruby-on-rails)
 
 
 ## Sites with programming challenges
