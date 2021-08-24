@@ -1,4 +1,5 @@
-# Index - Ruby on Rails
+
+# <img src="images/torch.gif" alt="drawing" width="70"/> Index - Ruby on Rails <img src="images/torch.gif" alt="drawing" width="70"/>
 
 ![Ruby](images/ruby.jpg)
 
