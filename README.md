@@ -2,133 +2,145 @@
 
 ![Ruby](images/ruby.jpg)
 
+### Labels
+
+:dollar: Paid :free: Content Free :brazil: pt-BR :us: en
+
 ## Android Apps
-[Anki - flashcards](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+[Anki - flashcards :free:](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 
-[SoloLearn - courses and community](https://play.google.com/store/apps/details?id=com.sololearn)
+[SoloLearn - courses and community :free:](https://play.google.com/store/apps/details?id=com.sololearn)
 
-[Pomodoro - timer](https://play.google.com/store/apps/details?id=com.superelement.pomodoro)
+[Pomodoro - timer :free:](https://play.google.com/store/apps/details?id=com.superelement.pomodoro)
 
 ## Chats
 Telegram
 
-[Ruby Brazil, pt-BR](https://t.me/rubybrasil)
+[Ruby Brazil :brazil:](https://t.me/rubybrasil)
 
-[Ruby Brazil - Off-topic, pt-BR](https://t.me/RubyBrasilOffTopic)
+[Ruby Brazil - Off-topic :brazil:](https://t.me/RubyBrasilOffTopic)
 
-[GURU-CE, pt-BR](https://t.me/guru_ce)
+[GURU-CE :brazil:](https://t.me/guru_ce)
 
-[ada.rb - Ruby application architecture and design, pt-BR](https://t.me/ruby_arch_design_br)
+[ada.rb - Ruby application architecture and design :brazil:](https://t.me/ruby_arch_design_br)
 
-[Guru-SP, pt-BR](https://t.me/gurusp)
+[Guru-SP :brazil:](https://t.me/gurusp)
 
-[RubyOnBnu, pt-BR](https://t.me/rubyOnBnu)
+[RubyOnBnu :brazil:](https://t.me/rubyOnBnu)
 
-[Ruby DF, pt-BR](https://t.me/rubydf)
+[Ruby DF :brazil:](https://t.me/rubydf)
 
-[Ruby-AL, pt-BR](https://t.me/ruby_alagoas)
+[Ruby-AL :brazil:](https://t.me/ruby_alagoas)
 
-[Frevo on Rails, pt-BR](https://t.me/frevoonrails)
+[Frevo on Rails :brazil:](https://t.me/frevoonrails)
 
-[Jampa Ruby, pt-BR](https://t.me/jamparuby)
+[Jampa Ruby :brazil:](https://t.me/jamparuby)
 
-[GURUPI - THE, pt-BR](https://t.me/gurupithe)
+[GURUPI - THE :brazil:](https://t.me/gurupithe)
 
-[RubyonRio, pt-BR](https://t.me/rubyonrio)
+[RubyonRio :brazil:](https://t.me/rubyonrio)
 
 Discord
 
-[Ruby on Rails, en](https://discord.gg/cHWTb5ng)
+[Ruby on Rails :us:](https://discord.gg/cHWTb5ng)
 
-[Aprende Ruby on Rails, en](https://discord.gg/cx2auAnw)
+[Aprende Ruby on Rails :us:](https://discord.gg/cx2auAnw)
 
-[Stimulus Reflex, en](https://discord.gg/stimulus-reflex)
+[Stimulus Reflex :us:](https://discord.gg/stimulus-reflex)
 
-[Ruby, en](https://discord.gg/q8xUEx6z)
+[Ruby :us:](https://discord.gg/q8xUEx6z)
 
 Slack
 
-[Ruby on Rails Link, en](https://www.rubyonrails.link/)
+[Ruby on Rails Link :us:](https://www.rubyonrails.link/)
 
-[Ruby Talk, pt-BR](https://rubytalk.net/)
+[Ruby Talk :brazil:](https://rubytalk.net/)
 
-[Ruby developers, en](https://rubydevs.herokuapp.com/)
+[Ruby developers :us:](https://rubydevs.herokuapp.com/)
 
-[Ruby on Rails Community, en](https://join.slack.com/t/rubyonrailscommunity/shared_invite/zt-uucqya2s-AwPialf3oN5MavTDPC4vpg)
+[Ruby on Rails Community :us:](https://join.slack.com/t/rubyonrailscommunity/shared_invite/zt-uucqya2s-AwPialf3oN5MavTDPC4vpg)
 
-[Vancouver Developers, en](http://yvrdev.herokuapp.com/)
+[Vancouver Developers :us:](http://yvrdev.herokuapp.com/)
 
 ## Courses
+TreinaWeb
+
+* [Ruby on Rails Básico :brazil: :dollar:](https://www.treinaweb.com.br/curso/ruby-on-rails-basico)
+* [Ruby on Rails Intermediário :brazil: :dollar:](https://www.treinaweb.com.br/curso/ruby-on-rails-intermediario)
+* [Ruby on Rails Avançado :brazil: :dollar:](https://www.treinaweb.com.br/curso/ruby-on-rails-avancado)
+* [Ruby on Rails - Testes Unitários :brazil: :dollar:](https://www.treinaweb.com.br/curso/testes-unitarios-em-aplicacoes-rails)
+
+
 ## Documentation
 ## Forums
 ## Books
 ## Social Media
 ## Podcasts
 
-[Code with Jason, en](https://open.spotify.com/show/1YAC0GQZaDCpURSsOdtE8x?si=c5e1b2c18b6d4311&nd=1%3E%3Cbr)
+[Code with Jason :us:](https://open.spotify.com/show/1YAC0GQZaDCpURSsOdtE8x?si=c5e1b2c18b6d4311&nd=1%3E%3Cbr)
 
-[Remote Ruby, en](https://open.spotify.com/show/23ZxPAyiZx2rTJ4NjYycLN?si=ebe4850f6f154c61&nd=1)
+[Remote Ruby :us:](https://open.spotify.com/show/23ZxPAyiZx2rTJ4NjYycLN?si=ebe4850f6f154c61&nd=1)
 
-[Ruby Rogues, en](https://open.spotify.com/show/06Gzz17ISUn1rGwItgQdl0?si=8799b907f6c747d7&nd=1)
+[Ruby Rogues :us:](https://open.spotify.com/show/06Gzz17ISUn1rGwItgQdl0?si=8799b907f6c747d7&nd=1)
 
-[The Ruby on Rails Podcast, en](https://open.spotify.com/show/2Iibd5A6R7mxkCm4NwNmUn?si=03f5322058584c49&nd=1)
+[The Ruby on Rails Podcast :us:](https://open.spotify.com/show/2Iibd5A6R7mxkCm4NwNmUn?si=03f5322058584c49&nd=1)
 
 ## Rss news aggregators
 
-[Dev Community Rails, en](https://dev.to/feed/tag/rails)
+[Dev Community Rails :us:](https://dev.to/feed/tag/rails)
 
-[Dev Community Ruby, en](https://dev.to/feed/tag/ruby)
+[Dev Community Ruby :us:](https://dev.to/feed/tag/ruby)
 
-[Rubyland, en](https://rubyland.news/feed.rss)
+[Rubyland :us:](https://rubyland.news/feed.rss)
 
-[Ruby on Rails - Google Alert, en](https://www.google.com/alerts/feeds/01156746738178996196/5471064447652205656)
+[Ruby on Rails - Google Alert :us:](https://www.google.com/alerts/feeds/01156746738178996196/5471064447652205656)
 
-[Awesome Ruby Newsletter, en](https://ruby.libhunt.com/newsletter/feed)
+[Awesome Ruby Newsletter :us:](https://ruby.libhunt.com/newsletter/feed)
 
-[Railsware, en](https://railsware.com/blog/feed/)
+[Railsware :us:](https://railsware.com/blog/feed/)
 
-[Questions StackOverflow - ruby, pt-BR](https://pt.stackoverflow.com/feeds/tag/ruby)
+[Questions StackOverflow - ruby :brazil:](https://pt.stackoverflow.com/feeds/tag/ruby)
 
 
-[Questions StackOverflow - rails, pt-BR](https://pt.stackoverflow.com/feeds/tag/ruby-on-rails)
+[Questions StackOverflow - rails :brazil:](https://pt.stackoverflow.com/feeds/tag/ruby-on-rails)
 
 
 ## Sites with programming challenges
 
-[Codewars, en](https://www.codewars.com/dashboard)
+[Codewars :us:](https://www.codewars.com/dashboard)
 
-[CODEFORCES, en](https://codeforces.com/)
+[CODEFORCES :us:](https://codeforces.com/)
 
-[HackerRank, en](https://www.hackerrank.com/dashboard)
+[HackerRank :us:](https://www.hackerrank.com/dashboard)
 
-[URI Online Judge, pt-BR](https://www.urionlinejudge.com.br/judge/pt)
+[URI Online Judge :brazil:](https://www.urionlinejudge.com.br/judge/pt)
 
-[Exercism, en](https://exercism.io/)
+[Exercism :us:](https://exercism.io/)
 
-[LeetCode, en](https://leetcode.com/)
+[LeetCode :us:](https://leetcode.com/)
 
-[Advent of Code, en](https://adventofcode.com/)
+[Advent of Code :us:](https://adventofcode.com/)
 
-[Coderbyte, en](https://coderbyte.com/)
+[Coderbyte :us:](https://coderbyte.com/)
 
 ## Youtube channels
 ## Youtube playlists
 ## Blogs
 
-[Ana Nunes da Silva, en](https://www.ananunesdasilva.com/)
+[Ana Nunes da Silva :us:](https://www.ananunesdasilva.com/)
 
-[Avdi Grimm, en](https://avdi.codes/)
+[Avdi Grimm :us:](https://avdi.codes/)
 
-[Code with Jason, en](https://www.codewithjason.com/)
+[Code with Jason :us:](https://www.codewithjason.com/)
 
-[Yaroslav Shmarov, en](https://blog.corsego.com/)
+[Yaroslav Shmarov :us:](https://blog.corsego.com/)
 
-[DriftingRuby, en](https://www.driftingruby.com/)
+[DriftingRuby :us:](https://www.driftingruby.com/)
 
-[Giant Robots Smashing Into Other Giant Robots, en](https://thoughtbot.com/blog)
+[Giant Robots Smashing Into Other Giant Robots :us:](https://thoughtbot.com/blog)
 
-[Gorails Screenshots, en](https://gorails.com/episodes)
+[Gorails Screenshots :us:](https://gorails.com/episodes)
 
-[Matheus Richard, en](https://www.matheusrich.com/)
+[Matheus Richard :us:](https://www.matheusrich.com/)
 
 
