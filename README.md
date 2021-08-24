@@ -4,66 +4,66 @@
 
 ### Labels
 
-:dollar: Paid :free: Content Free :brazil: pt-BR :us: en
+:dollar: Paid :free: Content Free :brazil: pt-BR :us: en :es: es
 
 ## Android Apps
-[Anki - flashcards :free:](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+* [Anki - flashcards :free:](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 
-[SoloLearn - courses and community :free:](https://play.google.com/store/apps/details?id=com.sololearn)
+* [SoloLearn - courses and community :free:](https://play.google.com/store/apps/details?id=com.sololearn)
 
-[Pomodoro - timer :free:](https://play.google.com/store/apps/details?id=com.superelement.pomodoro)
+* [Pomodoro - timer :free:](https://play.google.com/store/apps/details?id=com.superelement.pomodoro)
 
 ## Chats
-Telegram
+#### Telegram
 
-[Ruby Brazil :brazil:](https://t.me/rubybrasil)
+* [Ruby Brazil :brazil:](https://t.me/rubybrasil)
 
-[Ruby Brazil - Off-topic :brazil:](https://t.me/RubyBrasilOffTopic)
+* [Ruby Brazil - Off-topic :brazil:](https://t.me/RubyBrasilOffTopic)
 
-[GURU-CE :brazil:](https://t.me/guru_ce)
+* [GURU-CE :brazil:](https://t.me/guru_ce)
 
-[ada.rb - Ruby application architecture and design :brazil:](https://t.me/ruby_arch_design_br)
+* [ada.rb - Ruby application architecture and design :brazil:](https://t.me/ruby_arch_design_br)
 
-[Guru-SP :brazil:](https://t.me/gurusp)
+* [Guru-SP :brazil:](https://t.me/gurusp)
 
-[RubyOnBnu :brazil:](https://t.me/rubyOnBnu)
+* [RubyOnBnu :brazil:](https://t.me/rubyOnBnu)
 
-[Ruby DF :brazil:](https://t.me/rubydf)
+* [Ruby DF :brazil:](https://t.me/rubydf)
 
-[Ruby-AL :brazil:](https://t.me/ruby_alagoas)
+* [Ruby-AL :brazil:](https://t.me/ruby_alagoas)
 
-[Frevo on Rails :brazil:](https://t.me/frevoonrails)
+* [Frevo on Rails :brazil:](https://t.me/frevoonrails)
 
-[Jampa Ruby :brazil:](https://t.me/jamparuby)
+* [Jampa Ruby :brazil:](https://t.me/jamparuby)
 
-[GURUPI - THE :brazil:](https://t.me/gurupithe)
+* [GURUPI - THE :brazil:](https://t.me/gurupithe)
 
-[RubyonRio :brazil:](https://t.me/rubyonrio)
+* [RubyonRio :brazil:](https://t.me/rubyonrio)
 
-Discord
+#### Discord
 
-[Ruby on Rails :us:](https://discord.gg/cHWTb5ng)
+* [Ruby on Rails :us:](https://discord.gg/cHWTb5ng)
 
-[Aprende Ruby on Rails :us:](https://discord.gg/cx2auAnw)
+* [Aprende Ruby on Rails :es:](https://discord.gg/cx2auAnw)
 
-[Stimulus Reflex :us:](https://discord.gg/stimulus-reflex)
+* [Stimulus Reflex :us:](https://discord.gg/stimulus-reflex)
 
-[Ruby :us:](https://discord.gg/q8xUEx6z)
+* [Ruby :us:](https://discord.gg/q8xUEx6z)
 
-Slack
+#### Slack
 
-[Ruby on Rails Link :us:](https://www.rubyonrails.link/)
+* [Ruby on Rails Link :us:](https://www.rubyonrails.link/)
 
-[Ruby Talk :brazil:](https://rubytalk.net/)
+* [Ruby Talk :brazil:](https://rubytalk.net/)
 
-[Ruby developers :us:](https://rubydevs.herokuapp.com/)
+* [Ruby developers :us:](https://rubydevs.herokuapp.com/)
 
-[Ruby on Rails Community :us:](https://join.slack.com/t/rubyonrailscommunity/shared_invite/zt-uucqya2s-AwPialf3oN5MavTDPC4vpg)
+* [Ruby on Rails Community :us:](https://join.slack.com/t/rubyonrailscommunity/shared_invite/zt-uucqya2s-AwPialf3oN5MavTDPC4vpg)
 
-[Vancouver Developers :us:](http://yvrdev.herokuapp.com/)
+* [Vancouver Developers :us:](http://yvrdev.herokuapp.com/)
 
 ## Courses
-TreinaWeb
+#### TreinaWeb
 
 * [Ruby on Rails Básico :brazil: :dollar:](https://www.treinaweb.com.br/curso/ruby-on-rails-basico)
 * [Ruby on Rails Intermediário :brazil: :dollar:](https://www.treinaweb.com.br/curso/ruby-on-rails-intermediario)
