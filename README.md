@@ -73,7 +73,23 @@
 
 [The Ruby on Rails Tutorial 6th edition :us: :heavy_dollar_sign:](https://www.learnenough.com/ruby-on-rails-6th-edition)
 
+[Go Rails - Rails for Beginners :us: :free:](https://www.notion.so/jp7webdesign/index-ruby-on-rails-4e150222c9834d2387858244b0e0afd3#2fbb4aa722ed467e86d440804d94fe04)
+
 ## Documentation
+
+* [Ruby 3.0.2 :us:](https://ruby-doc.org/core-3.0.2/)
+
+* [Ruby apidock :us:](https://apidock.com/ruby)
+
+* [Ruby API :us:](https://rubyapi.org/)
+
+* [Rails API :us:](https://api.rubyonrails.org/)
+
+* [Rails apidock :us:](https://apidock.com/rails)
+
+* [Rspec apidock :us:](https://apidock.com/rspec)
+
+
 ## Forums
 ## Books
 ## Social Media
@@ -140,7 +156,7 @@
 
 * [Giant Robots Smashing Into Other Giant Robots :us:](https://thoughtbot.com/blog)
 
-* [Gorails Screenshots :us:](https://gorails.com/episodes)
+* [Go rails Screenshots :us:](https://gorails.com/episodes)
 
 * [Matheus Richard :us:](https://www.matheusrich.com/)
 
