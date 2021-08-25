@@ -67,8 +67,11 @@
 #### TreinaWeb
 
 * [Ruby on Rails Básico :brazil: :heavy_dollar_sign:](https://www.treinaweb.com.br/curso/ruby-on-rails-basico)
+
 * [Ruby on Rails Intermediário :brazil: :heavy_dollar_sign:](https://www.treinaweb.com.br/curso/ruby-on-rails-intermediario)
+
 * [Ruby on Rails Avançado :brazil: :heavy_dollar_sign:](https://www.treinaweb.com.br/curso/ruby-on-rails-avancado)
+
 * [Ruby on Rails - Testes Unitários :brazil: :heavy_dollar_sign:](https://www.treinaweb.com.br/curso/testes-unitarios-em-aplicacoes-rails)
 
 [The Ruby on Rails Tutorial 6th edition :us: :heavy_dollar_sign:](https://www.learnenough.com/ruby-on-rails-6th-edition)
@@ -92,6 +95,11 @@
 
 ## Forums
 ## Books
+
+![](images/books/beginning-ruby3.jpg)
+
+* [Beginning Ruby 3: From Beginner to Pro :us: :heavy_dollar_sign:](https://www.amazon.com.br/Beginning-Ruby-3-Beginner-Pro/dp/1484263235)
+
 ## Social Media
 ## Podcasts
 
