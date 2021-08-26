@@ -94,6 +94,17 @@
 
 
 ## Forums
+
+* [Ruby-forum.com :us:](https://www.ruby-forum.com/)
+
+* [Ruby talk mailing list mirror :us:](https://rubytalk.org/)
+
+* [Ruby on Rails - official :us:](https://discuss.rubyonrails.org/)
+
+* [Go Rails :us:](https://gorails.com/forum)
+
+* [GUJ - Ruby on Rails :brazil:](https://www.guj.com.br/c/programacao/ruby-on-rails)
+
 ## Books
 
 ![](images/books/beginning-ruby3.jpg)
@@ -101,6 +112,11 @@
 * [Beginning Ruby 3: From Beginner to Pro :us: :heavy_dollar_sign:](https://www.amazon.com.br/Beginning-Ruby-3-Beginner-Pro/dp/1484263235)
 
 ## Social Media
+
+#### Facebook
+
+* [Ruby on Rails Brasil :brazil:](https://www.facebook.com/groups/rubyonrailsbrasil/about)
+
 ## Podcasts
 
 * [Code with Jason :us:](https://open.spotify.com/show/1YAC0GQZaDCpURSsOdtE8x?si=c5e1b2c18b6d4311&nd=1%3E%3Cbr)
