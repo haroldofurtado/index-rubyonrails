@@ -41,6 +41,8 @@
 
 * [RubyonRio :brazil:](https://t.me/rubyonrio)
 
+* [Ruby / Rails inside channel :us:](https://t.me/rubyinside)
+
 #### Discord
 
 * [Ruby on Rails :us:](https://discord.gg/cHWTb5ng)
