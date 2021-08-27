@@ -90,6 +90,10 @@
 
 * [Rails apidock :us:](https://apidock.com/rails)
 
+* [Rails Guides :us:](https://guides.rubyonrails.org/) 
+
+* [Rails Guides :brazil:](https://guiarails.com.br/) 
+
 * [Rspec apidock :us:](https://apidock.com/rspec)
 
 
