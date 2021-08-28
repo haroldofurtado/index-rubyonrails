@@ -174,6 +174,8 @@
 ## Youtube playlists
 ## Blogs
 
+* [Hexdevs :us:](https://www.hexdevs.com/posts/)
+
 * [Ana Nunes da Silva :us:](https://www.ananunesdasilva.com/)
 
 * [Avdi Grimm :us:](https://avdi.codes/)
