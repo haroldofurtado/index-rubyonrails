@@ -190,6 +190,13 @@
 
 * [Go rails Screenshots :us:](https://gorails.com/episodes)
 
-* [Matheus Richard :us:](https://www.matheusrich.com/)
+* [Matheus Richard :us:](https://www.matheusrich.com/)*
 
 
+## Ruby on Rails Hosting Services
+
+* [Heroku :us: :heavy_dollar_sign: :free:](https://www.heroku.com/)
+
+* [Hatchbox :us: :heavy_dollar_sign:](https://www.hatchbox.io/)
+
+* [DigitalOcean :us: :heavy_dollar_sign:](https://www.digitalocean.com/)
