@@ -181,6 +181,69 @@
 * [Coderbyte :us:](https://coderbyte.com/)
 
 ## Youtube channels
+
+* [Arkency](http://www.youtube.com/channel/UCL8YpXFH1-y3AaELb0H7c3Q)
+
+* [BrainTrust Digital](http://www.youtube.com/channel/UCg7E-eNJ_am52NzdPj0A5Nw)
+
+* [Campus Code](http://www.youtube.com/channel/UCo3kBFCAEjwnx8CPjJjv-Ew)
+
+* [CJ Avilla](http://www.youtube.com/channel/UCYUC-bdnQRJDhZRL2c_NKVw)
+
+* [Confreaks](http://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ)
+
+* [Conner Jensen](http://www.youtube.com/channel/UCUeZ3YgblYkMQt0wJP3OR-Q)
+
+* [Corey's Corner](http://www.youtube.com/channel/UCfd8A1xfzqk7veapUhe8hLQ)
+
+* [Drifting Ruby](http://www.youtube.com/channel/UCxJaNyXCQw0mghY0hA1wA9w)
+
+* [Euruko](http://www.youtube.com/channel/UCgXsZr2e0AgUJMZm5t03WVw)
+
+* [GoRails](http://www.youtube.com/channel/UCIQmhQxCvLHRr3Beku77tww)
+
+* [GURU SP talks](http://www.youtube.com/channel/UCrxf9jYw4gva_9jwb-77AqQ)
+
+* [GURU-CE - Ruby Ceará](http://www.youtube.com/channel/UCb37lKRVAErU2iZeHSZNSNw)
+
+* [hexdevs](http://www.youtube.com/channel/UCoygmH4rHPNuQHt_OBVD5Dw)
+
+* [Jason Charnes](http://www.youtube.com/channel/UCpXtMg5_kerIimaR9C_SqRw)
+
+* [Jesus Castello](http://www.youtube.com/channel/UCUCRO4CMJQgoabub5SzJQug)
+
+* [Lucas Caton](http://www.youtube.com/channel/UCSBsYBhO5FLvvSl_ChnwDdw)
+
+* [Mike Rogers](http://www.youtube.com/channel/UCeYdh6WLzE88DSvk0yZ_k1w)
+
+* [One Bit Code](http://www.youtube.com/channel/UC44Mzz2-5TpyfklUCQ5NuxQ)
+
+* [Paulo Eduardo Melo](http://www.youtube.com/channel/UCr9w-w_dwEK1pXp1Rec1K6g)
+
+* [Phil Smy](http://www.youtube.com/channel/UClhB27KWJ7hBRjJ85o8cgnQ)
+
+* [Programador Showzim](http://www.youtube.com/channel/UCuYwpKcupN4QCLwvcGuzGNA)
+
+* [Ruby Australia](http://www.youtube.com/channel/UCr38SHAvOKMDyX3-8lhvJHA)
+
+* [Ruby Central](http://www.youtube.com/channel/UCpFXaEz3vKJ45XjW5m5pbow)
+
+* [Ruby on Rails Correndo nas Veias](http://www.youtube.com/channel/UCqaTHRBJqWowTDCW_ZmfYtQ)
+
+* [Ruby Summit Brasil](http://www.youtube.com/channel/UCwGSyKzd1uXIUVL1zkIJgSw)
+
+* [Semicolon&Sons](http://www.youtube.com/channel/UC17mJJnvzAa_e9qQqLIfIeQ)
+
+* [STL Ruby](http://www.youtube.com/channel/UCx5hAmXXUBHbTkv3FYzFPlg)
+
+* [Sundae Club](http://www.youtube.com/channel/UC6JPQW8LnAZyfC_rUZqDqqA)
+
+* [SupeRails](http://www.youtube.com/channel/UCyr6ZTmztFW3FB4qG_97FoA)
+
+* [Tom Kadwill](http://www.youtube.com/channel/UCrBVvuRdZigZBKpS5GEOGpg)
+
+* [Web-Crunch](http://www.youtube.com/channel/UCzePijHDYnVHIXW6HYTL4dg)
+
 ## Youtube playlists
 ## Blogs
 
