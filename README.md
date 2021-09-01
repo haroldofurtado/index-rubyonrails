@@ -14,6 +14,10 @@
 
 * [Pomodoro - timer :free:](https://play.google.com/store/apps/details?id=com.superelement.pomodoro)
 
+* [Ruby Interview Questions :free:](https://play.google.com/store/apps/details?id=eu.ydns.chernish2)
+
+* [Ruby On Rails Interview Questions :free:](https://play.google.com/store/apps/details?id=com.interviewquestions4you.ruby&hl=en&gl=US)
+
 ## Chats
 #### Telegram
 
