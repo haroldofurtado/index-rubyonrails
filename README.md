@@ -80,6 +80,12 @@
 
 [Go Rails - Rails for Beginners :us: :free:](https://www.notion.so/jp7webdesign/index-ruby-on-rails-4e150222c9834d2387858244b0e0afd3#2fbb4aa722ed467e86d440804d94fe04)
 
+[Ruby Koans :us: :free:](http://rubykoans.com/)
+
+[Ruby Tapas :us: :heavy_dollar_sign:](https://www.rubytapas.com/)a
+
+[Rebuilding Rails :us: :heavy_dollar_sign:](https://rebuilding-rails.com/)
+
 ## Documentation
 
 * [Ruby 3.0.2 :us:](https://ruby-doc.org/core-3.0.2/)
@@ -200,3 +206,22 @@
 * [Hatchbox :us: :heavy_dollar_sign:](https://www.hatchbox.io/)
 
 * [DigitalOcean :us: :heavy_dollar_sign:](https://www.digitalocean.com/)
+
+
+## Contribute to Open Source with Ruby on Rails
+
+* [Ruby for Good](https://rubyforgood.org/)
+
+* [Ruby on rails open source projects](https://opensourcerails.org/most-popular)
+
+
+## Gem's Information
+
+* [The Ruby Toolbox](https://www.ruby-toolbox.com/)
+
+* [Rails Bump](https://railsbump.org/)
+
+
+## Ruby Community Events
+
+* [Calendar of Ruby Events](https://ruby-meetup-calendar.mikerogers.io/) by [Mike Rogers](https://github.com/MikeRogers0)
